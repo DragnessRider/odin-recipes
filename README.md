@@ -1,9 +1,12 @@
 # odin-recipes
-6.23.2025
+<h2>6.23.2025</h2>
     Learning HTML:
         Paragraphs, images, headers to create recipes.
     Learning how to use GIT and Github along with linux properly.
     Learning how to use commit and to push changes fully onto the repository.
     Learning to be comfortable with VSC and a virtual machine.
-END OF PROJECT: Created three unique recipes, learned how to make lists, used images and scale them down to fit format, can use github a bit better now in a more professional way. Learned how github can make websites for free projects if public.
+<h2>END OF PROJECT:</h2> Created three unique recipes, learned how to make lists, used images and scale them down to fit format, can use github a bit better now in a more professional way. Learned how github can make websites for free projects if public.
+<h2>6.24.2025</h2>
+    Learning CSS:
+        Learning to style and make my recipes look better and create actual pretty looking web-pages to go to.
 
