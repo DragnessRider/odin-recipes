@@ -2,4 +2,80 @@ body{
     background-color: rgb(29, 29, 29);
     color: white;
     font-family: sans-serif;
+    padding: 20px;
+}
+
+.home{
+    display: block;
+    width: 80%;
+    background-color: rgb(46, 46, 46);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 20px;
+
+}
+
+p{
+    font-size: 15px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+.ingredients{
+    width: 80%;
+    background-color: rgb(46, 46, 46);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.directions{
+    width: 80%;
+    background-color: rgb(46, 46, 46);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.title{
+    width: 80%;
+    background-color: rgb(46, 46, 46);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+a{
+    color: gold;
+}
+
+a:visited{
+    color: gold;
+}
+
+a:hover{
+    color: white;
+}
+
+a:active{
+    color: white;
 }
